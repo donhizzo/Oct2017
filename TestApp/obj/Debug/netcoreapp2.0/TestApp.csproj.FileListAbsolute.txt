@@ -13,3 +13,18 @@ C:\Users\HiTechS\Documents\Visual Studio 2017\Projects\Oct2017\TestApp\obj\Debug
 C:\Users\HiTechS\Documents\Visual Studio 2017\Projects\Oct2017\TestApp\obj\Debug\netcoreapp2.0\TestApp.pdb
 C:\Users\HiTechS\Documents\Visual Studio 2017\Projects\Oct2017\TestApp\bin\Debug\netcoreapp2.0\BuisnessLayer.dll
 C:\Users\HiTechS\Documents\Visual Studio 2017\Projects\Oct2017\TestApp\bin\Debug\netcoreapp2.0\BuisnessLayer.pdb
+C:\GitRepos\Oct2017\TestApp\bin\Debug\netcoreapp2.0\TestApp.deps.json
+C:\GitRepos\Oct2017\TestApp\bin\Debug\netcoreapp2.0\TestApp.runtimeconfig.json
+C:\GitRepos\Oct2017\TestApp\bin\Debug\netcoreapp2.0\TestApp.runtimeconfig.dev.json
+C:\GitRepos\Oct2017\TestApp\bin\Debug\netcoreapp2.0\TestApp.dll
+C:\GitRepos\Oct2017\TestApp\bin\Debug\netcoreapp2.0\TestApp.pdb
+C:\GitRepos\Oct2017\TestApp\bin\Debug\netcoreapp2.0\BuisnessLayer.dll
+C:\GitRepos\Oct2017\TestApp\bin\Debug\netcoreapp2.0\DataStore.dll
+C:\GitRepos\Oct2017\TestApp\bin\Debug\netcoreapp2.0\BuisnessLayer.pdb
+C:\GitRepos\Oct2017\TestApp\bin\Debug\netcoreapp2.0\DataStore.pdb
+C:\GitRepos\Oct2017\TestApp\obj\Debug\netcoreapp2.0\TestApp.csprojResolveAssemblyReference.cache
+C:\GitRepos\Oct2017\TestApp\obj\Debug\netcoreapp2.0\TestApp.csproj.CoreCompileInputs.cache
+C:\GitRepos\Oct2017\TestApp\obj\Debug\netcoreapp2.0\TestApp.AssemblyInfoInputs.cache
+C:\GitRepos\Oct2017\TestApp\obj\Debug\netcoreapp2.0\TestApp.AssemblyInfo.cs
+C:\GitRepos\Oct2017\TestApp\obj\Debug\netcoreapp2.0\TestApp.dll
+C:\GitRepos\Oct2017\TestApp\obj\Debug\netcoreapp2.0\TestApp.pdb

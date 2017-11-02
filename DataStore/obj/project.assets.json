@@ -177,7 +177,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\HiTechS\\.nuget\\packages\\": {},
+    "C:\\Users\\Student\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -186,17 +186,17 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\HiTechS\\Documents\\Visual Studio 2017\\Projects\\Oct2017\\DataStore\\DataStore.csproj",
+      "projectUniqueName": "C:\\GitRepos\\Oct2017\\DataStore\\DataStore.csproj",
       "projectName": "DataStore",
-      "projectPath": "C:\\Users\\HiTechS\\Documents\\Visual Studio 2017\\Projects\\Oct2017\\DataStore\\DataStore.csproj",
-      "packagesPath": "C:\\Users\\HiTechS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HiTechS\\Documents\\Visual Studio 2017\\Projects\\Oct2017\\DataStore\\obj\\",
+      "projectPath": "C:\\GitRepos\\Oct2017\\DataStore\\DataStore.csproj",
+      "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
+      "outputPath": "C:\\GitRepos\\Oct2017\\DataStore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\HiTechS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

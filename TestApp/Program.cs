@@ -3,53 +3,26 @@ using DataStore;
 using BuisnessLayer;
 using System.Collections.Generic;
 using BuisnessLayer.Implementations;
+using BuisnessLayer.Interfaces;
+using TestApp.DataHelper;
 
 namespace TestApp
 {
     class Program
     {
+       
+
         static void Main(string[] args)
         {
-            var empObj = new Employee();
-            empObj.Id = 10;
-            empObj.FirstName = "Vasu";
-            empObj.EmployeeDepartment = new Department()
-            {
-                Id = 1,
-                DepartmentName = "IT"
-            };
-            empObj.UserAddress = new SubAddress()
-            {
-                City="Falls Church",
-                State="VA",
-                Country="USA"
-            };
-            var custObj = new Customer();
-
-            custObj.Id = 10;
-            custObj.FirstName = "Vasu";
-            custObj.CustomerOrders = new List<Order>()
-            {
-               new Order{ID=1,OrderAmount=10,OrderDate=System.DateTime.Now},
-               new Order{ID=1,OrderAmount=10,OrderDate=System.DateTime.Now},
-               new Order{ID=1,OrderAmount=10,OrderDate=System.DateTime.Now},
-               new Order{ID=1,OrderAmount=10,OrderDate=System.DateTime.Now},
-               new Order{ID=1,OrderAmount=10,OrderDate=System.DateTime.Now}
-
-            };
-            custObj.UserAddress = new SubAddress()
-            {
-                City = "Falls Church",
-                State = "VA",
-                Country = "USA"
-            };
-
-            var customerService = new CustomerService();
+            var customers = CutomerDataHelper.GetCustomer();
+            var employees = EmployeeDataGenerator.GetEmployee();
+            CustomerService customerService1 = new CustomerService();// This has all the methods.
+            ICustomerService<Customer> customerService2 = new CustomerService();// This has methods only from ICutomerService
+            IBaseRepository<Customer> customerService3 = new CustomerService();//This has mehtodds only from IBaseRpeository
             var employeeService = new EmployeeService();
-
-            customerService.Create(custObj);
-            employeeService.Create(empObj);
-
+            //customerService.
+            
+          
             Console.WriteLine("Hello World!");
         }
     }

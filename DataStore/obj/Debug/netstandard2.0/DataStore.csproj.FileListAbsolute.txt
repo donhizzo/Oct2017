@@ -7,3 +7,12 @@ C:\Users\HiTechS\Documents\Visual Studio 2017\Projects\Oct2017\DataStore\obj\Deb
 C:\Users\HiTechS\Documents\Visual Studio 2017\Projects\Oct2017\DataStore\obj\Debug\netstandard2.0\DataStore.AssemblyInfo.cs
 C:\Users\HiTechS\Documents\Visual Studio 2017\Projects\Oct2017\DataStore\obj\Debug\netstandard2.0\DataStore.dll
 C:\Users\HiTechS\Documents\Visual Studio 2017\Projects\Oct2017\DataStore\obj\Debug\netstandard2.0\DataStore.pdb
+C:\GitRepos\Oct2017\DataStore\bin\Debug\netstandard2.0\DataStore.deps.json
+C:\GitRepos\Oct2017\DataStore\bin\Debug\netstandard2.0\DataStore.dll
+C:\GitRepos\Oct2017\DataStore\bin\Debug\netstandard2.0\DataStore.pdb
+C:\GitRepos\Oct2017\DataStore\obj\Debug\netstandard2.0\DataStore.csprojResolveAssemblyReference.cache
+C:\GitRepos\Oct2017\DataStore\obj\Debug\netstandard2.0\DataStore.csproj.CoreCompileInputs.cache
+C:\GitRepos\Oct2017\DataStore\obj\Debug\netstandard2.0\DataStore.AssemblyInfoInputs.cache
+C:\GitRepos\Oct2017\DataStore\obj\Debug\netstandard2.0\DataStore.AssemblyInfo.cs
+C:\GitRepos\Oct2017\DataStore\obj\Debug\netstandard2.0\DataStore.dll
+C:\GitRepos\Oct2017\DataStore\obj\Debug\netstandard2.0\DataStore.pdb
