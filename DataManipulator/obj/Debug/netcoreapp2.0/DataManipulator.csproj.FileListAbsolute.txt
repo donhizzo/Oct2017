@@ -1,0 +1,17 @@
+C:\Users\HiTechS\Documents\Visual Studio 2017\Projects\Oct2017\DataManipulator\bin\Debug\netcoreapp2.0\DataManipulator.deps.json
+C:\Users\HiTechS\Documents\Visual Studio 2017\Projects\Oct2017\DataManipulator\bin\Debug\netcoreapp2.0\DataManipulator.runtimeconfig.json
+C:\Users\HiTechS\Documents\Visual Studio 2017\Projects\Oct2017\DataManipulator\bin\Debug\netcoreapp2.0\DataManipulator.runtimeconfig.dev.json
+C:\Users\HiTechS\Documents\Visual Studio 2017\Projects\Oct2017\DataManipulator\bin\Debug\netcoreapp2.0\DataManipulator.dll
+C:\Users\HiTechS\Documents\Visual Studio 2017\Projects\Oct2017\DataManipulator\bin\Debug\netcoreapp2.0\DataManipulator.pdb
+C:\Users\HiTechS\Documents\Visual Studio 2017\Projects\Oct2017\DataManipulator\bin\Debug\netcoreapp2.0\BuisnessLayer.dll
+C:\Users\HiTechS\Documents\Visual Studio 2017\Projects\Oct2017\DataManipulator\bin\Debug\netcoreapp2.0\DataStore.dll
+C:\Users\HiTechS\Documents\Visual Studio 2017\Projects\Oct2017\DataManipulator\bin\Debug\netcoreapp2.0\TestApp.dll
+C:\Users\HiTechS\Documents\Visual Studio 2017\Projects\Oct2017\DataManipulator\bin\Debug\netcoreapp2.0\BuisnessLayer.pdb
+C:\Users\HiTechS\Documents\Visual Studio 2017\Projects\Oct2017\DataManipulator\bin\Debug\netcoreapp2.0\DataStore.pdb
+C:\Users\HiTechS\Documents\Visual Studio 2017\Projects\Oct2017\DataManipulator\bin\Debug\netcoreapp2.0\TestApp.pdb
+C:\Users\HiTechS\Documents\Visual Studio 2017\Projects\Oct2017\DataManipulator\obj\Debug\netcoreapp2.0\DataManipulator.csprojResolveAssemblyReference.cache
+C:\Users\HiTechS\Documents\Visual Studio 2017\Projects\Oct2017\DataManipulator\obj\Debug\netcoreapp2.0\DataManipulator.csproj.CoreCompileInputs.cache
+C:\Users\HiTechS\Documents\Visual Studio 2017\Projects\Oct2017\DataManipulator\obj\Debug\netcoreapp2.0\DataManipulator.AssemblyInfoInputs.cache
+C:\Users\HiTechS\Documents\Visual Studio 2017\Projects\Oct2017\DataManipulator\obj\Debug\netcoreapp2.0\DataManipulator.AssemblyInfo.cs
+C:\Users\HiTechS\Documents\Visual Studio 2017\Projects\Oct2017\DataManipulator\obj\Debug\netcoreapp2.0\DataManipulator.dll
+C:\Users\HiTechS\Documents\Visual Studio 2017\Projects\Oct2017\DataManipulator\obj\Debug\netcoreapp2.0\DataManipulator.pdb
